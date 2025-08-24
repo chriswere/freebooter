@@ -1,6 +1,6 @@
 @font-face {
 	font-family:"oldlondon";
-	src:url("/monfreebooter/oldlondon.ttf") format ("truetype");
+	src:url("/oldlondon.ttf") format ("truetype");
 }
 @media only screen{
 html {
