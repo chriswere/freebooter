@@ -5,13 +5,13 @@
 <title>ChrisWere.Wales RSS</title>
 <description>Chris Were's site</description>
 <language>en-gb</language>
-<link>https://chriswere.github.io/monfreebooter//rss.xml</link>
-<atom:link href="https://chriswere.github.io/monfreebooter//rss.xml" rel="self" type="application/rss+xml" />
+<link>https://freebooter.chriswere.wales/rss.xml</link>
+<atom:link href="https://freebooter.chriswere.wales/rss.xml" rel="self" type="application/rss+xml" />
 
 <item>
 <title>Web tools I use</title>
-<link>https://chriswere.github.io/monfreebooter//posts/web-tools-i-use/</link>
-<guid>https://chriswere.github.io/monfreebooter//posts/web-tools-i-use/</guid>
+<link>https://freebooter.chriswere.wales/posts/web-tools-i-use/</link>
+<guid>https://freebooter.chriswere.wales/posts/web-tools-i-use/</guid>
 <pubDate>Sun, 24 Aug 2025 15:28:37 +0100</pubDate>
 <description><![CDATA[<h2 id="front-ends">Front ends</h2>
 <p>This page used to have a lot more front ends to websites such as
@@ -110,8 +110,8 @@ for services where I don’t which to leave my real email address.</li>
 
 <item>
 <title>Desktop apps I use</title>
-<link>https://chriswere.github.io/monfreebooter//posts/desktop-apps-i-use/</link>
-<guid>https://chriswere.github.io/monfreebooter//posts/desktop-apps-i-use/</guid>
+<link>https://freebooter.chriswere.wales/posts/desktop-apps-i-use/</link>
+<guid>https://freebooter.chriswere.wales/posts/desktop-apps-i-use/</guid>
 <pubDate>Sat, 23 Aug 2025 00:00:00 +0100</pubDate>
 <description><![CDATA[<p>Just like <em>former</em> MP Jacob Rees-Mogg showing the world that
 he <a
@@ -262,8 +262,8 @@ recorder.</li>
 
 <item>
 <title>RSS feeds for all my content</title>
-<link>https://chriswere.github.io/monfreebooter//posts/rss-feeds-for-all-my-content/</link>
-<guid>https://chriswere.github.io/monfreebooter//posts/rss-feeds-for-all-my-content/</guid>
+<link>https://freebooter.chriswere.wales/posts/rss-feeds-for-all-my-content/</link>
+<guid>https://freebooter.chriswere.wales/posts/rss-feeds-for-all-my-content/</guid>
 <pubDate>Tue, 19 Aug 2025 00:00:00 +0100</pubDate>
 <description><![CDATA[<p>Listed here are the RSS feeds to all the content I regularly post
 online. For those of you who are interested, my RSS feed reader of
@@ -326,8 +326,8 @@ Virgins podcast</a></li>
 
 <item>
 <title>A blop in the bucket</title>
-<link>https://chriswere.github.io/monfreebooter//posts/a-blop-in-the-bucket/</link>
-<guid>https://chriswere.github.io/monfreebooter//posts/a-blop-in-the-bucket/</guid>
+<link>https://freebooter.chriswere.wales/posts/a-blop-in-the-bucket/</link>
+<guid>https://freebooter.chriswere.wales/posts/a-blop-in-the-bucket/</guid>
 <pubDate>Sun, 17 Aug 2025 00:00:00 +0100</pubDate>
 <description><![CDATA[<p>Much like <a
 href="https://www.huffingtonpost.co.uk/entry/liz-truss-tank-estonia-margaret-thatcher_uk_61a60ddfe4b025be1aee877e">Liz
@@ -480,8 +480,8 @@ together this tool and walk me through using it.</p>]]></content:encoded>
 
 <item>
 <title>Mastodon and fediverse tools</title>
-<link>https://chriswere.github.io/monfreebooter//posts/mastodon-and-fediverse-tools/</link>
-<guid>https://chriswere.github.io/monfreebooter//posts/mastodon-and-fediverse-tools/</guid>
+<link>https://freebooter.chriswere.wales/posts/mastodon-and-fediverse-tools/</link>
+<guid>https://freebooter.chriswere.wales/posts/mastodon-and-fediverse-tools/</guid>
 <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
 <description><![CDATA[<ul>
 <li><a href="https://fed.brid.gy">Bridge Fed</a>: Link your Fedi account
@@ -516,8 +516,8 @@ for PeerTube videos.</li>
 
 <item>
 <title>Open source games what I like</title>
-<link>https://chriswere.github.io/monfreebooter//posts/open-source-games-what-i-like/</link>
-<guid>https://chriswere.github.io/monfreebooter//posts/open-source-games-what-i-like/</guid>
+<link>https://freebooter.chriswere.wales/posts/open-source-games-what-i-like/</link>
+<guid>https://freebooter.chriswere.wales/posts/open-source-games-what-i-like/</guid>
 <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
 <description><![CDATA[<ul>
 <li><a href="https://www.wesnoth.org/">Battle for Wesnoth</a>: a turn
@@ -578,8 +578,8 @@ shooter.</li>
 
 <item>
 <title>Gemini (the protocol) tools</title>
-<link>https://chriswere.github.io/monfreebooter//posts/gemini-(the-protocol)-tools/</link>
-<guid>https://chriswere.github.io/monfreebooter//posts/gemini-(the-protocol)-tools/</guid>
+<link>https://freebooter.chriswere.wales/posts/gemini-(the-protocol)-tools/</link>
+<guid>https://freebooter.chriswere.wales/posts/gemini-(the-protocol)-tools/</guid>
 <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
 <description><![CDATA[<ul>
 <li><a href="https://github.com/makeworld-the-better-one/amfora">Amfora
