@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+<channel>
+<title>ChrisWere.Wales RSS</title>
+<description>Chris Were's site</description>
+<language>en-gb</language>
+<link>https://chriswere.github.io/monfreebooter//rss.xml</link>
+<atom:link href="https://chriswere.github.io/monfreebooter//rss.xml" rel="self" type="application/rss+xml" />
+
+<item>
+<title>Web tools I use</title>
+<link>https://chriswere.github.io/monfreebooter//posts/web-tools-i-use/</link>
+<guid>https://chriswere.github.io/monfreebooter//posts/web-tools-i-use/</guid>
+<pubDate>Sun, 24 Aug 2025 15:28:37 +0100</pubDate>
+<description><![CDATA[<h2 id="front-ends">Front ends</h2>
+<p>This page used to have a lot more front ends to websites such as
+Reddit, Twitter, Instagram, however over the years, these platforms have
+tightened their APIs and made it difficult to use their platforms with
+3rd party tools. As a result of this, I’m trying to use <em>free and
+open source</em> alternatives to the big tech services.</p>
+<ul>
+<li><a href="https://redirect.invidious.io">Invidious</a>: Managed by
+friend of <a
+href="https://video.thepolarbear.co.uk/c/the_freebooters">Freeboosters</a>
+<a href="https://github.com/TheFrenchGhosty">TheFrenchGhosty</a>
+Invidious is one of the best ways to interact with YouTube. Whilst the
+number of instances are dwindling due to YouTube aggressive
+enshitification, it’s still an incredible admirable project.</li>
+<li><a href="https://lingva.ml">Lingva Translate</a> (<a
+href="https://github.com/TheDavidDelta/lingva-translate">project
+page</a>): A FOSS front-end for Google Translate.</li>
+</ul>
+<h2 id="web-browser-add-ons">Web browser add-ons</h2>
+<ul>
+<li><a href="https://github.com/kubuzetto/behind">behind!</a>: This is a
+great tool for helping you download photos and videos from many
+websites.</li>
+<li><a href="https://ublockorigin.com/">uBlock Origin</a>: The best ad
+blocking tool out there, and the primary reason I’m still using Firefox
+web browser.</li>
+</ul>
+<h2 id="online-resources">Online resources</h2>
+<ul>
+<li><a href="https://www.dafont.com">DaFont</a>: A large collection of
+fonts, searchable by licence.</li>
+<li><a href="https://www.fontsquirrel.com">Font Squirrel</a>: A large
+collection of fonts, searchable by licence.</li>
+<li><a href="http://freepd.com">FreePD</a>: A large library of public
+domain music. I don’t use music in my videos any more, but this still
+remains the best place for public domain stock music.</li>
+</ul>
+<h2 id="closed-source-web-apps">Closed source web apps</h2>
+<p>Whilst I avoid using non-FOSS tools whenever possible, the following
+are what I’ll make an exception for.</p>
+<ul>
+<li><a href="https://temp-mail.org">Temp Mail</a>: This allows you to
+set up a one-time-use temporary email address for signing up to online
+services. I use it for all accounts that I don’t consider important, and
+for services where I don’t which to leave my real email address.</li>
+</ul>]]></description>
+<content:encoded><![CDATA[<h2 id="front-ends">Front ends</h2>
+<p>This page used to have a lot more front ends to websites such as
+Reddit, Twitter, Instagram, however over the years, these platforms have
+tightened their APIs and made it difficult to use their platforms with
+3rd party tools. As a result of this, I’m trying to use <em>free and
+open source</em> alternatives to the big tech services.</p>
+<ul>
+<li><a href="https://redirect.invidious.io">Invidious</a>: Managed by
+friend of <a
+href="https://video.thepolarbear.co.uk/c/the_freebooters">Freeboosters</a>
+<a href="https://github.com/TheFrenchGhosty">TheFrenchGhosty</a>
+Invidious is one of the best ways to interact with YouTube. Whilst the
+number of instances are dwindling due to YouTube aggressive
+enshitification, it’s still an incredible admirable project.</li>
+<li><a href="https://lingva.ml">Lingva Translate</a> (<a
+href="https://github.com/TheDavidDelta/lingva-translate">project
+page</a>): A FOSS front-end for Google Translate.</li>
+</ul>
+<h2 id="web-browser-add-ons">Web browser add-ons</h2>
+<ul>
+<li><a href="https://github.com/kubuzetto/behind">behind!</a>: This is a
+great tool for helping you download photos and videos from many
+websites.</li>
+<li><a href="https://ublockorigin.com/">uBlock Origin</a>: The best ad
+blocking tool out there, and the primary reason I’m still using Firefox
+web browser.</li>
+</ul>
+<h2 id="online-resources">Online resources</h2>
+<ul>
+<li><a href="https://www.dafont.com">DaFont</a>: A large collection of
+fonts, searchable by licence.</li>
+<li><a href="https://www.fontsquirrel.com">Font Squirrel</a>: A large
+collection of fonts, searchable by licence.</li>
+<li><a href="http://freepd.com">FreePD</a>: A large library of public
+domain music. I don’t use music in my videos any more, but this still
+remains the best place for public domain stock music.</li>
+</ul>
+<h2 id="closed-source-web-apps">Closed source web apps</h2>
+<p>Whilst I avoid using non-FOSS tools whenever possible, the following
+are what I’ll make an exception for.</p>
+<ul>
+<li><a href="https://temp-mail.org">Temp Mail</a>: This allows you to
+set up a one-time-use temporary email address for signing up to online
+services. I use it for all accounts that I don’t consider important, and
+for services where I don’t which to leave my real email address.</li>
+</ul>]]></content:encoded>
+</item>
+
+
+<item>
+<title>Desktop apps I use</title>
+<link>https://chriswere.github.io/monfreebooter//posts/desktop-apps-i-use/</link>
+<guid>https://chriswere.github.io/monfreebooter//posts/desktop-apps-i-use/</guid>
+<pubDate>Sat, 23 Aug 2025 00:00:00 +0100</pubDate>
+<description><![CDATA[<p>Just like <em>former</em> MP Jacob Rees-Mogg showing the world that
+he <a
+href="https://www.thelondoneconomic.com/politics/picture-of-rees-moggs-desk-shows-he-doesnt-use-a-computer-and-nobody-is-surprised-322645">doesn’t
+have a computer in his office</a>, I too shall share my daily workflow.
+Unlike Mister Rees-Mogg, I know how to use a computer (most of the
+time).</p>
+<p>All apps mentioned here are <em>free and open source</em> and most
+should be available in most Linux distro repositories.</p>
+<h2 id="web-browser">Web browser</h2>
+<ul>
+<li><a href="https://www.mozilla.org/firefox">Firefox</a>: My day-to-day
+browser of choice, I use the ESR version which usually seems like the
+least enshittified version, but I’m certainly not happy with how Mozilla
+have been behaving.</li>
+<li><a href="https://lynx.invisible-island.net">Lynx</a>: The browser I
+use to read articles from my RSS reader. It does a great job of
+bypassing many of the annoyances of the modern web.</li>
+<li><a href="https://qutebrowser.org">Qutebrowser</a>: I’ve been trying
+out Qutebrowser lately. Whilst I’m quite enjoying it, the lack of
+<em>Ublock Origin level</em> ad-blocking, as well as the lack of a
+in-built password manager are two factors I’m learning to work out.</li>
+</ul>
+<h2 id="password-manager">Password manager</h2>
+<ul>
+<li><a href="https://keepassxc.org">KeePassXC</a>: One of the best
+password managers around, it also comes with the package
+<em>keepassxc-cli</em> which is a command line interface for KeePassXC
+I’ve been getting used to using.</li>
+</ul>
+<h2 id="rss-reader">RSS reader</h2>
+<ul>
+<li><a href="https://newsboat.org">Newsboat</a>: I have used many, many
+RSS readers over the years, and this is by far my favourite. I’ve hooked
+it in to use the text-only browser Lynx to read articles which don’t
+publish full articles in the feed and it’s a very pleasant way to
+catch-up on the web. For those who want a GUI RSS reader, I can
+recommend <a
+href="https://github.com/patchedsoul/news-flash">NewsFlash</a>. People
+have been recommending <a
+href="https://codeberg.org/newsraft/newsraft">Newsraft</a> but I haven’t
+got round to giving it a spin.</li>
+</ul>
+<h2 id="graphics">Graphics</h2>
+<ul>
+<li><a href="https://www.gimp.org">GIMP</a>: I know many folks detest
+this for image editing, but it’s the first one I learnt to effectively
+use and I’ve become familiar with it. Whilst it may not be the best FOSS
+has to offer, it’s certainly good enough for me.</li>
+<li><a href="https://inkscape.org/en">Inkscape</a>: I use Inkscape for
+all my vector-based graphics. It does everything that I need to do as is
+an excellent piece of FOSS software.</li>
+<li><a
+href="https://orama-interactive.itch.io/pixelorama">Pixelorama</a>:
+simple, intuitive pixel art tool, on Itch and <a
+href="https://store.steampowered.com/app/2779170/Pixelorama">Steam</a>.</li>
+<li><a href="https://www.scribus.net">Scribus</a>: Fantastic desktop
+publishing package. I’ve used this for so many project, including,
+leaflets, magazines, and even a billboard once.</li>
+</ul>
+<h2 id="video">Video</h2>
+<ul>
+<li><a href="https://kdenlive.org">Kdenlive</a>: I use the Kdenlive
+AppImage for all my video editing. It does everything I need and
+more.</li>
+<li><a href="https://obsproject.com">OBS (Open Broadcaster
+Software)</a>: Screen recorder and livestreaming software, very feature
+complete.</li>
+<li><a
+href="http://www.maartenbaert.be/simplescreenrecorder">SimpleScreenRecorder</a>:
+Screen recorder, not as full-featured as OBS but a useful lighter
+recorder.</li>
+</ul>]]></description>
+<content:encoded><![CDATA[<p>Just like <em>former</em> MP Jacob Rees-Mogg showing the world that
+he <a
+href="https://www.thelondoneconomic.com/politics/picture-of-rees-moggs-desk-shows-he-doesnt-use-a-computer-and-nobody-is-surprised-322645">doesn’t
+have a computer in his office</a>, I too shall share my daily workflow.
+Unlike Mister Rees-Mogg, I know how to use a computer (most of the
+time).</p>
+<p>All apps mentioned here are <em>free and open source</em> and most
+should be available in most Linux distro repositories.</p>
+<h2 id="web-browser">Web browser</h2>
+<ul>
+<li><a href="https://www.mozilla.org/firefox">Firefox</a>: My day-to-day
+browser of choice, I use the ESR version which usually seems like the
+least enshittified version, but I’m certainly not happy with how Mozilla
+have been behaving.</li>
+<li><a href="https://lynx.invisible-island.net">Lynx</a>: The browser I
+use to read articles from my RSS reader. It does a great job of
+bypassing many of the annoyances of the modern web.</li>
+<li><a href="https://qutebrowser.org">Qutebrowser</a>: I’ve been trying
+out Qutebrowser lately. Whilst I’m quite enjoying it, the lack of
+<em>Ublock Origin level</em> ad-blocking, as well as the lack of a
+in-built password manager are two factors I’m learning to work out.</li>
+</ul>
+<h2 id="password-manager">Password manager</h2>
+<ul>
+<li><a href="https://keepassxc.org">KeePassXC</a>: One of the best
+password managers around, it also comes with the package
+<em>keepassxc-cli</em> which is a command line interface for KeePassXC
+I’ve been getting used to using.</li>
+</ul>
+<h2 id="rss-reader">RSS reader</h2>
+<ul>
+<li><a href="https://newsboat.org">Newsboat</a>: I have used many, many
+RSS readers over the years, and this is by far my favourite. I’ve hooked
+it in to use the text-only browser Lynx to read articles which don’t
+publish full articles in the feed and it’s a very pleasant way to
+catch-up on the web. For those who want a GUI RSS reader, I can
+recommend <a
+href="https://github.com/patchedsoul/news-flash">NewsFlash</a>. People
+have been recommending <a
+href="https://codeberg.org/newsraft/newsraft">Newsraft</a> but I haven’t
+got round to giving it a spin.</li>
+</ul>
+<h2 id="graphics">Graphics</h2>
+<ul>
+<li><a href="https://www.gimp.org">GIMP</a>: I know many folks detest
+this for image editing, but it’s the first one I learnt to effectively
+use and I’ve become familiar with it. Whilst it may not be the best FOSS
+has to offer, it’s certainly good enough for me.</li>
+<li><a href="https://inkscape.org/en">Inkscape</a>: I use Inkscape for
+all my vector-based graphics. It does everything that I need to do as is
+an excellent piece of FOSS software.</li>
+<li><a
+href="https://orama-interactive.itch.io/pixelorama">Pixelorama</a>:
+simple, intuitive pixel art tool, on Itch and <a
+href="https://store.steampowered.com/app/2779170/Pixelorama">Steam</a>.</li>
+<li><a href="https://www.scribus.net">Scribus</a>: Fantastic desktop
+publishing package. I’ve used this for so many project, including,
+leaflets, magazines, and even a billboard once.</li>
+</ul>
+<h2 id="video">Video</h2>
+<ul>
+<li><a href="https://kdenlive.org">Kdenlive</a>: I use the Kdenlive
+AppImage for all my video editing. It does everything I need and
+more.</li>
+<li><a href="https://obsproject.com">OBS (Open Broadcaster
+Software)</a>: Screen recorder and livestreaming software, very feature
+complete.</li>
+<li><a
+href="http://www.maartenbaert.be/simplescreenrecorder">SimpleScreenRecorder</a>:
+Screen recorder, not as full-featured as OBS but a useful lighter
+recorder.</li>
+</ul>]]></content:encoded>
+</item>
+
+
+<item>
+<title>RSS feeds for all my content</title>
+<link>https://chriswere.github.io/monfreebooter//posts/rss-feeds-for-all-my-content/</link>
+<guid>https://chriswere.github.io/monfreebooter//posts/rss-feeds-for-all-my-content/</guid>
+<pubDate>Tue, 19 Aug 2025 00:00:00 +0100</pubDate>
+<description><![CDATA[<p>Listed here are the RSS feeds to all the content I regularly post
+online. For those of you who are interested, my RSS feed reader of
+choice is Newsboat which has a TUI interface. For GUI users, I
+personally enjoy Newsflash.</p>
+<ul>
+<li><a href="/rss.xml">My website posts</a></li>
+<li><a
+href="https://toot.wales/@ChrisWere.rss">Mastodon/Fediverse</a></li>
+<li><a
+href="https://video.thepolarbear.co.uk/feeds/videos.xml?accountId=155219">PeerTube</a></li>
+<li><a
+href="https://twitchrss.appspot.com/vod/chriswere">Twitch</a></li>
+<li><a
+href="https://www.youtube.com/feeds/videos.xml?channel_id=UCAPR27YUyxmgwm3Wc2WSHLw">YouTube
+channel</a></li>
+<li><a
+href="https://www.youtube.com/feeds/videos.xml?channel_id=UCCIf_ixcFPZG7f-7ts2El4A">YouTube
+channel (Project Chronicle)</a></li>
+</ul>
+<h2 id="freebooters">Freebooters</h2>
+<ul>
+<li><a
+href="https://video.thepolarbear.co.uk/feeds/videos.xml?videoChannelId=3324">Freebooters
+podcast</a></li>
+<li><a
+href="https://video.thepolarbear.co.uk/feeds/videos.xml?videoChannelId=1268">Space
+Virgins podcast</a></li>
+</ul>]]></description>
+<content:encoded><![CDATA[<p>Listed here are the RSS feeds to all the content I regularly post
+online. For those of you who are interested, my RSS feed reader of
+choice is Newsboat which has a TUI interface. For GUI users, I
+personally enjoy Newsflash.</p>
+<ul>
+<li><a href="/rss.xml">My website posts</a></li>
+<li><a
+href="https://toot.wales/@ChrisWere.rss">Mastodon/Fediverse</a></li>
+<li><a
+href="https://video.thepolarbear.co.uk/feeds/videos.xml?accountId=155219">PeerTube</a></li>
+<li><a
+href="https://twitchrss.appspot.com/vod/chriswere">Twitch</a></li>
+<li><a
+href="https://www.youtube.com/feeds/videos.xml?channel_id=UCAPR27YUyxmgwm3Wc2WSHLw">YouTube
+channel</a></li>
+<li><a
+href="https://www.youtube.com/feeds/videos.xml?channel_id=UCCIf_ixcFPZG7f-7ts2El4A">YouTube
+channel (Project Chronicle)</a></li>
+</ul>
+<h2 id="freebooters">Freebooters</h2>
+<ul>
+<li><a
+href="https://video.thepolarbear.co.uk/feeds/videos.xml?videoChannelId=3324">Freebooters
+podcast</a></li>
+<li><a
+href="https://video.thepolarbear.co.uk/feeds/videos.xml?videoChannelId=1268">Space
+Virgins podcast</a></li>
+</ul>]]></content:encoded>
+</item>
+
+
+<item>
+<title>A blop in the bucket</title>
+<link>https://chriswere.github.io/monfreebooter//posts/a-blop-in-the-bucket/</link>
+<guid>https://chriswere.github.io/monfreebooter//posts/a-blop-in-the-bucket/</guid>
+<pubDate>Sun, 17 Aug 2025 00:00:00 +0100</pubDate>
+<description><![CDATA[<p>Much like <a
+href="https://www.huffingtonpost.co.uk/entry/liz-truss-tank-estonia-margaret-thatcher_uk_61a60ddfe4b025be1aee877e">Liz
+Truss</a> driving a tank into Estonia, I’m going to do something
+confusing and likely foolhardy: rebuild the pride and joy of my digital
+presence with <a href="https://friendo.monster">Drew’s</a> static
+website builder, <a href="https://gitlab.com/uoou/blop">blop</a>. I’m a
+big lover of static sites for all the use cases you can apply them to.
+They’re faster, more stable, more portable, require fewer dependencies
+and resources, and you generally have more control over them when it
+comes to administrative tasks. Fellow <a
+href="https://video.thepolarbear.co.uk/c/expanse/videos">Space
+Virgin</a>, <a href="https://thepolarbear.co.uk">Hamish the Polarbear’s
+website</a>, is also static, being a gentleman of refined taste and
+all.</p>
+<p>So, what is this blorp?</p>
+<p>Firstly, it’s ‘blop’. Secondly, the project page defines blop
+succinctly: “blop essentially just converts markdown into HTML in a
+lightly structured way. Run blop in a directory where you want the local
+copy of your blog to live and then upload/push the resulting HTML to
+your website.” Thirdly, the Urban Dictionary defines blop thusly: “<a
+href="https://www.urbandictionary.com/define.php?term=blop">the sound of
+jelly when it falls off your knife onto the floor</a>.” Please don’t
+look at the subsequent definitions, you won’t like them.</p>
+<p>I wanted to get back into writing, make my website somewhere more
+interesting to visit, and align myself with the small/smol web. Every
+now and then, I want to tinker with this little facet of my personality.
+The last time I made a significant change here was the new ‘picnic
+style’ theme. I considered giving Hugo and E11y a shot, but they both
+felt like more than I needed. Additionally, Drew had been keeping blop
+ticking over for years now, and it always seemed to work well for him. I
+mean, all I need is something to convert .md files into an HTML template
+and assemble an RSS feed.</p>
+<p>The RSS feed was important, in fact, I was even considering creating
+an RSS feed-only blog at one point. I’ve recently been getting into <a
+href="https://newsboat.org">Newsboat</a>, a command line RSS reader that
+fits the way I like to read perfectly. People have been recommending <a
+href="https://codeberg.org/newsraft/newsraft">Newsraft</a>, but I’ve yet
+to give that a go. I tend to opt for what’s available in the Debian
+stable repositories as a broad, albeit sometimes broken, rule.</p>
+<p>Not many people get the privilege of having the creator of a piece of
+software available to personally offer a step-by-step guide on getting
+all the templates set up, but Drew, being one of the kindest people I
+know and one of my best friends, took the time to get me set up nicely,
+even though he was having a migraine (or, as I like to call them, blood
+attacks).</p>
+<p>I managed to migrate a lot of my old website content over very
+easily, as is the beauty of working with plain text. I never cared much
+for having too many images on my website, waste of space and bandwidth
+if you ask me.</p>
+<p>All in all, blop is everything I need and want out of a static site
+generator, and I’m incredibly grateful to Drew for putting it together.
+I’ve even made myself a little script to push the changes easily. Due to
+this new workflow, I’m now hosting this site on <a
+href="https://docs.codeberg.org/codeberg-pages">Codeberg Pages</a>.</p>
+<p>So, how does it work?</p>
+<p>Well, you simply pull all the files from the <a
+href="https://gitlab.com/uoou/blop">blop project page</a> using git, or
+a web browser if you prefer. Adjust the templates, style.css, url.txt,
+site.conf, and add your posts in the form of markdown files in the
+markdown folder, then run blop. Sidenote: I’ve placed blop in my
+~/.local/bin folder, where I keep all my local executables, but you can
+stick it anywhere you like. The <a
+href="https://gitlab.com/uoou/blop/-/blob/master/README.md">full
+documentation</a> has all the settings options as well as details on how
+to get your blop site set up properly.</p>
+<p>To top it all off, I’ve set up a little script that compiles the site
+and pushes it up to Codeberg. While the script is very basic, all of my
+work can be seen on the <a
+href="https://codeberg.org/ChrisWere/pages">Codeberg project page for my
+site</a>. A big thanks to Codeberg, by the way, for being such a
+wonderfully supportive institution in the free software and open-source
+world, as well as a big thank you to Drew for taking the time to put
+together this tool and walk me through using it.</p>]]></description>
+<content:encoded><![CDATA[<p>Much like <a
+href="https://www.huffingtonpost.co.uk/entry/liz-truss-tank-estonia-margaret-thatcher_uk_61a60ddfe4b025be1aee877e">Liz
+Truss</a> driving a tank into Estonia, I’m going to do something
+confusing and likely foolhardy: rebuild the pride and joy of my digital
+presence with <a href="https://friendo.monster">Drew’s</a> static
+website builder, <a href="https://gitlab.com/uoou/blop">blop</a>. I’m a
+big lover of static sites for all the use cases you can apply them to.
+They’re faster, more stable, more portable, require fewer dependencies
+and resources, and you generally have more control over them when it
+comes to administrative tasks. Fellow <a
+href="https://video.thepolarbear.co.uk/c/expanse/videos">Space
+Virgin</a>, <a href="https://thepolarbear.co.uk">Hamish the Polarbear’s
+website</a>, is also static, being a gentleman of refined taste and
+all.</p>
+<p>So, what is this blorp?</p>
+<p>Firstly, it’s ‘blop’. Secondly, the project page defines blop
+succinctly: “blop essentially just converts markdown into HTML in a
+lightly structured way. Run blop in a directory where you want the local
+copy of your blog to live and then upload/push the resulting HTML to
+your website.” Thirdly, the Urban Dictionary defines blop thusly: “<a
+href="https://www.urbandictionary.com/define.php?term=blop">the sound of
+jelly when it falls off your knife onto the floor</a>.” Please don’t
+look at the subsequent definitions, you won’t like them.</p>
+<p>I wanted to get back into writing, make my website somewhere more
+interesting to visit, and align myself with the small/smol web. Every
+now and then, I want to tinker with this little facet of my personality.
+The last time I made a significant change here was the new ‘picnic
+style’ theme. I considered giving Hugo and E11y a shot, but they both
+felt like more than I needed. Additionally, Drew had been keeping blop
+ticking over for years now, and it always seemed to work well for him. I
+mean, all I need is something to convert .md files into an HTML template
+and assemble an RSS feed.</p>
+<p>The RSS feed was important, in fact, I was even considering creating
+an RSS feed-only blog at one point. I’ve recently been getting into <a
+href="https://newsboat.org">Newsboat</a>, a command line RSS reader that
+fits the way I like to read perfectly. People have been recommending <a
+href="https://codeberg.org/newsraft/newsraft">Newsraft</a>, but I’ve yet
+to give that a go. I tend to opt for what’s available in the Debian
+stable repositories as a broad, albeit sometimes broken, rule.</p>
+<p>Not many people get the privilege of having the creator of a piece of
+software available to personally offer a step-by-step guide on getting
+all the templates set up, but Drew, being one of the kindest people I
+know and one of my best friends, took the time to get me set up nicely,
+even though he was having a migraine (or, as I like to call them, blood
+attacks).</p>
+<p>I managed to migrate a lot of my old website content over very
+easily, as is the beauty of working with plain text. I never cared much
+for having too many images on my website, waste of space and bandwidth
+if you ask me.</p>
+<p>All in all, blop is everything I need and want out of a static site
+generator, and I’m incredibly grateful to Drew for putting it together.
+I’ve even made myself a little script to push the changes easily. Due to
+this new workflow, I’m now hosting this site on <a
+href="https://docs.codeberg.org/codeberg-pages">Codeberg Pages</a>.</p>
+<p>So, how does it work?</p>
+<p>Well, you simply pull all the files from the <a
+href="https://gitlab.com/uoou/blop">blop project page</a> using git, or
+a web browser if you prefer. Adjust the templates, style.css, url.txt,
+site.conf, and add your posts in the form of markdown files in the
+markdown folder, then run blop. Sidenote: I’ve placed blop in my
+~/.local/bin folder, where I keep all my local executables, but you can
+stick it anywhere you like. The <a
+href="https://gitlab.com/uoou/blop/-/blob/master/README.md">full
+documentation</a> has all the settings options as well as details on how
+to get your blop site set up properly.</p>
+<p>To top it all off, I’ve set up a little script that compiles the site
+and pushes it up to Codeberg. While the script is very basic, all of my
+work can be seen on the <a
+href="https://codeberg.org/ChrisWere/pages">Codeberg project page for my
+site</a>. A big thanks to Codeberg, by the way, for being such a
+wonderfully supportive institution in the free software and open-source
+world, as well as a big thank you to Drew for taking the time to put
+together this tool and walk me through using it.</p>]]></content:encoded>
+</item>
+
+
+<item>
+<title>Mastodon and fediverse tools</title>
+<link>https://chriswere.github.io/monfreebooter//posts/mastodon-and-fediverse-tools/</link>
+<guid>https://chriswere.github.io/monfreebooter//posts/mastodon-and-fediverse-tools/</guid>
+<pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+<description><![CDATA[<ul>
+<li><a href="https://fed.brid.gy">Bridge Fed</a>: Link your Fedi account
+to Bluesky and vice versa.</li>
+<li><a href="https://the-federation.info">The Federation</a>: Fediverse
+information and statistics.</li>
+<li><a href="https://masto.host">Masto.Host</a>: create a Mastodon
+instance with this hosting service.</li>
+<li><a href="https://phanpy.social">Phanpy</a>: lightweight and
+customisable alternative front end for Mastodon.</li>
+<li><a href="https://pinafore.social">Pinafore</a>: lightweight, single
+column alternative front end for Mastodon.</li>
+<li><a href="https://sepiasearch.org">Sepia Search</a>: a search engine
+for PeerTube videos.</li>
+</ul>]]></description>
+<content:encoded><![CDATA[<ul>
+<li><a href="https://fed.brid.gy">Bridge Fed</a>: Link your Fedi account
+to Bluesky and vice versa.</li>
+<li><a href="https://the-federation.info">The Federation</a>: Fediverse
+information and statistics.</li>
+<li><a href="https://masto.host">Masto.Host</a>: create a Mastodon
+instance with this hosting service.</li>
+<li><a href="https://phanpy.social">Phanpy</a>: lightweight and
+customisable alternative front end for Mastodon.</li>
+<li><a href="https://pinafore.social">Pinafore</a>: lightweight, single
+column alternative front end for Mastodon.</li>
+<li><a href="https://sepiasearch.org">Sepia Search</a>: a search engine
+for PeerTube videos.</li>
+</ul>]]></content:encoded>
+</item>
+
+
+<item>
+<title>Open source games what I like</title>
+<link>https://chriswere.github.io/monfreebooter//posts/open-source-games-what-i-like/</link>
+<guid>https://chriswere.github.io/monfreebooter//posts/open-source-games-what-i-like/</guid>
+<pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+<description><![CDATA[<ul>
+<li><a href="https://www.wesnoth.org/">Battle for Wesnoth</a>: a turn
+based fantasy strategy game.</li>
+<li><a href="http://chromium-bsu.sourceforge.net">Chromium BSU</a>: fast
+paced, arcade-style, top-scrolling space shooter.</li>
+<li><a href="https://freedoom.github.io/index.html">Freedoom</a>: free
+and open source FPS game based on the Doom engine.</li>
+<li><a href="https://www.hedgewars.org/">Hedgewars</a>: a turn-based
+strategy, artillery, action and comedy game (like Worms).</li>
+<li><a href="https://www.minetest.net">Minetest</a>: free, open source
+voxel game engine and game, fun to build stuff in.</li>
+<li><a href="http://www.openarena.ws">OpenArena</a>: community-produced
+deathmatch FPS based on GPL idTech3 technology.</li>
+<li><a href="https://openmw.org/en">OpenMW</a>: open source engine for
+The Elder Scrolls III: Morrowind. <em>Original game files
+required</em>.</li>
+<li><a href="https://www.openttd.org">OpenTTD</a>: Transport Tycoon
+Deluxe as imagined by FOSS.</li>
+<li><a href="http://www.redeclipse.net">Red Eclipse</a>: a fun Arena
+shooter.</li>
+<li><a href="http://shapez.io">Shapez.io</a>: factory line puzzle game,
+similar to Factorio.</li>
+<li><a href="https://wl.widelands.org">Widelands</a>: a Settlers-esq
+strategy open source strategy game.</li>
+<li><a href="http://www.xonotic.org">Xonotic</a>: free and fast arena
+shooter.</li>
+</ul>]]></description>
+<content:encoded><![CDATA[<ul>
+<li><a href="https://www.wesnoth.org/">Battle for Wesnoth</a>: a turn
+based fantasy strategy game.</li>
+<li><a href="http://chromium-bsu.sourceforge.net">Chromium BSU</a>: fast
+paced, arcade-style, top-scrolling space shooter.</li>
+<li><a href="https://freedoom.github.io/index.html">Freedoom</a>: free
+and open source FPS game based on the Doom engine.</li>
+<li><a href="https://www.hedgewars.org/">Hedgewars</a>: a turn-based
+strategy, artillery, action and comedy game (like Worms).</li>
+<li><a href="https://www.minetest.net">Minetest</a>: free, open source
+voxel game engine and game, fun to build stuff in.</li>
+<li><a href="http://www.openarena.ws">OpenArena</a>: community-produced
+deathmatch FPS based on GPL idTech3 technology.</li>
+<li><a href="https://openmw.org/en">OpenMW</a>: open source engine for
+The Elder Scrolls III: Morrowind. <em>Original game files
+required</em>.</li>
+<li><a href="https://www.openttd.org">OpenTTD</a>: Transport Tycoon
+Deluxe as imagined by FOSS.</li>
+<li><a href="http://www.redeclipse.net">Red Eclipse</a>: a fun Arena
+shooter.</li>
+<li><a href="http://shapez.io">Shapez.io</a>: factory line puzzle game,
+similar to Factorio.</li>
+<li><a href="https://wl.widelands.org">Widelands</a>: a Settlers-esq
+strategy open source strategy game.</li>
+<li><a href="http://www.xonotic.org">Xonotic</a>: free and fast arena
+shooter.</li>
+</ul>]]></content:encoded>
+</item>
+
+
+<item>
+<title>Gemini (the protocol) tools</title>
+<link>https://chriswere.github.io/monfreebooter//posts/gemini-(the-protocol)-tools/</link>
+<guid>https://chriswere.github.io/monfreebooter//posts/gemini-(the-protocol)-tools/</guid>
+<pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+<description><![CDATA[<ul>
+<li><a href="https://github.com/makeworld-the-better-one/amfora">Amfora
+gemini browser</a>: my prefered CLI browser for gemini.</li>
+<li><a href="https://oppen.digital/software/ariane/">Ariane gemini
+browser</a>: my prefered gemini browser on Android.</li>
+<li><a href="https://gmi.skyjake.fi/lagrange/">Lagrange gemini
+browser</a>: my prefered GUI browser for gemini.</li>
+</ul>]]></description>
+<content:encoded><![CDATA[<ul>
+<li><a href="https://github.com/makeworld-the-better-one/amfora">Amfora
+gemini browser</a>: my prefered CLI browser for gemini.</li>
+<li><a href="https://oppen.digital/software/ariane/">Ariane gemini
+browser</a>: my prefered gemini browser on Android.</li>
+<li><a href="https://gmi.skyjake.fi/lagrange/">Lagrange gemini
+browser</a>: my prefered GUI browser for gemini.</li>
+</ul>]]></content:encoded>
+</item>
+
+
+
+</channel>
+</rss>
