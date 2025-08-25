@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title><!--title--></title>
-<description>Chris Were's site</description>
+<description><!--title--> RSS feed</description>
 <language>en-gb</language>
 <link>https://freebooter.chriswere.wales/rss.xml</link>
 <atom:link href="https://freebooter.chriswere.wales/rss.xml" rel="self" type="application/rss+xml" />
