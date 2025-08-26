@@ -27,7 +27,10 @@ a:hover {
 div.articledate {
 	font-style: italic;
 }
-ul.postlist {
+ul.postlist li {
+	margin 1.5em;
+}
+ul.postlist a {
 	font-weight: bold;
 }
 tr.odd {
