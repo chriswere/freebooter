@@ -28,7 +28,10 @@ div.articledate {
 	font-style: italic;
 }
 ul.postlist li {
-	padding 1.5em 0;
+	padding 0.5em 0;
+}
+td {
+	padding:0.5em;
 }
 tr.odd {
 	background: #ddd;
