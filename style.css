@@ -19,6 +19,7 @@ header a {
 }
 a {
 	color: #00c;
+	display: block;
 	text-decoration: none;
 }
 a:hover {
