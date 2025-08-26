@@ -1,25 +1,47 @@
 ---
 date: 2025-08-26
-title: Petrol prices in Monmouthshire and Forest of Dean
+title: Cheapest unleaded petrol prices in Monmouthshire and Forest of Dean
 ---
 
-As of 26 August 2025, petrol prices in the Monmouthshire and Forest of Dean area show a range of options for drivers. The following stations offer competitive rates:
+Unleaded petrol prices in the Monmouthshire and Forest of Dean area show a competitive range across various stations. Here are the 50 cheapest options in the area:
 
 | **Station** | **Price (pence per litre)** | **Date** |
 |-------------|-----------------------------|----------|
-| TOTALENERGIES ROSS ROAD | 134.9 | 25/08/2025 |
-| VALERO GLOUCESTER | 134.9 | 25/08/2025 |
-| SAINSBURYS GLOUCESTER QUAYS | 134.9 | 26/08/2025 |
-| TESCO GLOUCESTER | 134.9 | 26/08/2025 |
-| ASDA QUEDGELEY AUTOMAT | 135.7 | 26/08/2025 |
-| ASDA GLOUCESTER METZ WAY | 135.7 | 26/08/2025 |
-| TESCO QUEDGELEY | 135.9 | 26/08/2025 |
-| MORRISONS GLOUCESTER | 135.9 | 26/08/2025 |
-| BP ROSS ROAD | 136.9 | 23/08/2025 |
-| SAINSBURYS BARNWOOD | 136.9 | 26/08/2025 |
+| TOTALENERGIES ROSS ROAD | 126.9 | 25/08/2025 |
+| VALERO GLOUCESTER | 126.9 | 25/08/2025 |
+| BP ROSS ROAD | 126.9 | 25/08/2025 |
+| HARVEST ENERGY DRYBROOK | 128.9 | 20/08/2025 |
+| SAINSBURYS GLOUCESTER QUAYS | 128.9 | 26/08/2025 |
+| MORRISONS CRIBBS CAUSEWAY | 128.9 | 26/08/2025 |
+| ASDA PATCHWAY | 129.3 | 26/08/2025 |
+| APPLEGREEN CINDERFORD | 129.7 | 22/08/2025 |
+| GULF MITCHELDEAN | 129.7 | 25/08/2025 |
+| GULF NEWENT | 129.7 | 24/08/2025 |
+| ASDA QUEDGELEY AUTOMAT | 129.7 | 26/08/2025 |
+| MURCO CINDERFORD | 129.9 | 20/08/2025 |
+| GULF CINDERFORD | 129.9 | 24/08/2025 |
+| SHELL A465 NORTHBOUND | 129.9 | 24/08/2025 |
+| ESSO WESTBURY-ON-SEVERN | 129.9 | 24/08/2025 |
+| TESCO QUEDGELEY | 129.9 | 26/08/2025 |
+| TESCO ABERTILLERY | 129.9 | 26/08/2025 |
+| TEXACO WESTGATE STREET | 129.9 | 25/08/2025 |
+| MURCO A465 | 130.0 | 21/08/2025 |
+| TEXACO BRISTOL ROAD | 130.5 | 21/08/2025 |
+| TEXACO DURSLEY | 130.5 | 24/08/2025 |
+| TEXACO STONEHOUSE | 130.5 | 26/08/2025 |
+| TEXACO CWMBRAN | 130.7 | 26/08/2025 |
+| ASDA PILLGWENLLY AUTOMAT | 130.7 | 26/08/2025 |
+| BP ABERGAVENNY | 130.9 | 26/08/2025 |
+| TESCO PONTYPOOL | 130.9 | 26/08/2025 |
+| MORRISONS CWMBRAN | 130.9 | 26/08/2025 |
+| SAINSBURYS CWMBRAN | 130.9 | 26/08/2025 |
+| ESSO WOTTON-UNDER-EDGE | 130.9 | 24/08/2025 |
+| TESCO NEWPORT SPYTTY | 130.9 | 26/08/2025 |
+| LOW PRICES ALWAYS BRISTOL | 130.9 | 25/08/2025 |
+| ESSAR HEREFORD | 131.9 | 21/08/2025 |
+| MORRISONS ROSS-ON-WYE | 131.9 | 26/08/2025 |
+| TEXACO NEWNHAM | 131.9 | 26/08/2025 |
+| ESSO ABERGAVENNY | 131.9 | 25/08/2025 |
+| GULF CHEPSTOW ROAD | 131.9 | 24/08/2025 |
+| TESCO THORNBURY | 131.9 | 26/08/2025 
 
-The lowest prices are found at **TOTALENERGIES ROSS ROAD**, **VALERO GLOUCESTER**, **SAINSBURYS GLOUCESTER QUAYS**, and **TESCO GLOUCESTER**, all priced at **134.9 pence per litre**. These stations are conveniently located, making them accessible for most drivers in the area.
-
-Prices vary slightly at other stations, with **ASDA** and **MORRISONS** offering petrol at **135.7 pence** and **135.9 pence** respectively. The highest price recorded in the area is **139.9 pence** at several stations, including **GULF CINDERFORD** and **VALERO LYDNEY**.
-
-Drivers are encouraged to check local prices regularly, as they can fluctuate based on market conditions.
