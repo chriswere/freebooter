@@ -3,6 +3,8 @@
 	src: url("/oldlondon.ttf") format("truetype");
 }
 html {
+	background: #eee;
+	color: #111;
 	font-family: serif;
 	margin: 15px auto;
 	max-width: 1200px;
@@ -11,7 +13,16 @@ header {
 	text-align: center;
 }
 header a {
-	color: #000;
+	color: #111;
 	text-decoration: none;
 	font: 40px "oldlondon", serif;
+}
+a {
+	color: #00c;
+}
+a:hover {
+	text-decoration: underline;
+}
+table, th, td {
+	border: 1px solid #111;
 }
