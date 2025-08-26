@@ -24,6 +24,9 @@ a {
 a:hover {
 	text-decoration: underline;
 }
+div.articledate {
+	font-style: italic;
+}
 ul.postlist {
 	font-weight: bold;
 }
