@@ -1,6 +1,6 @@
 ---
 date: 2025-08-26
-title: Monmouthshire Council approves 40mph speed limit on Staunton Road (from Monmouth to Coleford)
+title: Council approves 40mph speed limit on Staunton Road (from Monmouth to Coleford)
 ---
 
 Monmouthshire County Council has approved a new **40mph speed limit** on Staunton Road (A4136) following a detailed engineering assessment and community consultation. The decision was part of the Individual Cabinet Member Decision meeting held on Wednesday, 20th August 2025 at 5:00 pm.
