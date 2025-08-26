@@ -27,7 +27,8 @@ a:hover {
 div.articledate {
 	font-style: italic;
 }
-ul.postlist li {
+ul.postlist li,
+ul.archivelist li {
 	padding: 0.2em 0;
 }
 th, td {
