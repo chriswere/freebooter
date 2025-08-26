@@ -7,6 +7,8 @@ A retrospective bid to keep two illuminated fascia signs at a popular Abergavenn
 
 The application, lodged by Mr Peter Woolley for **Il Gusto** at **43 Frogmore Street**, sought to retain two internally illuminated signs already installed on the shopfront. The site lies in the **Abergavenny Conservation Area**, within the town’s historic core and close to several listed buildings, including the Baptist Church and the War Memorial.
 
+The planning meeting where this was decided can be viewed on [YouTube](https://www.youtube.com/live/XpDYGvZdEsc?si=EBiA2bO-4m65F3Xq&t=5329).
+
 ## The Proposal 
 
 The two fascia signs, each around 3 metres wide and 0.6 metres high, feature **white text on a black PVC background**. They are static, internally lit, with a brightness of **300 cd/m²**, and sit above the restaurant frontage at a height of 2.65 metres.
