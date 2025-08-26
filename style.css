@@ -30,7 +30,7 @@ div.articledate {
 ul.postlist li {
 	padding 0.5em 0;
 }
-td {
+th, td {
 	padding:0.5em;
 }
 tr.odd {
