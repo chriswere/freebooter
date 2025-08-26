@@ -5,11 +5,13 @@ title: Llancayo Travellers’ site approved after long dispute over flooding and
 
 A long-running planning saga at Llancayo, near Usk, has ended with approval for a Travellers’ site — almost a decade after the family first moved onto the land without consent. 
 
+The planning meeting was made available on [YouTube](https://www.youtube.com/live/XpDYGvZdEsc?si=S9hUGzBfLcEedUlq&t=4178).
+
 Monmouthshire County Council’s planning committee confirmed its decision this summer to allow **four family-related pitches** on land opposite Llancayo House, despite strong opposition from the local community council and some neighbours. 
 
 The development will provide each pitch with a static caravan, a touring caravan, and a day/utility room, together with ecological enhancements, new landscaping, and an emergency flood access. A new **biological treatment plant** and drainage system have been designed to address earlier concerns about pollution in the nearby **River Usk Special Area of Conservation (SAC)**.
 
-## A History of Disputes
+## A history of disputes
 
 The Jones and Purcell family, who are from the Gypsy and Traveller community, have lived at the site since 2016. Their first planning application for six pitches was refused later that year, citing its location in open countryside, poor drainage, and highway safety issues. 
 
@@ -17,7 +19,7 @@ An enforcement notice was served requiring the family to leave, but appeals to t
 
 The latest application scaled back the scheme from six to **four pitches** and dropped earlier proposals for stables and kennels. Officers said this reduction allowed more space for drainage infrastructure and improved the site’s layout. 
 
-## Environmental Scrutiny
+## Environmental scrutiny
 
 Because the site drains towards the River Usk, the proposal triggered a full **Habitats Regulations Assessment (HRA)**. Natural Resources Wales (NRW) warned that untreated effluent could damage protected fish species, including twaite and allis shad. 
 
@@ -31,7 +33,7 @@ The system was designed for up to 16–18 people — more than the likely occupa
 
 NRW eventually accepted the calculations, concluding that, with conditions in place, the project would **not harm the River Usk SAC**. 
 
-## Objections and Concerns
+## Objections and concerns
 
 Despite the technical approvals, **Llanarth Fawr Community Council** lodged strong objections. It argued that: 
 
@@ -41,13 +43,13 @@ Despite the technical approvals, **Llanarth Fawr Community Council** lodged stro
 
 The council warned the scheme could worsen local flooding and said unmet need for Traveller sites should not override environmental risks. 
 
-## Balancing Need and Impact
+## Balancing need and impact
 
 Planning officers acknowledged the objections but stressed Monmouthshire has a legal duty to provide Traveller accommodation. Its most recent **Gypsy and Traveller Accommodation Assessment**, approved by Welsh Government in 2024, identified a need for 13 additional pitches in the county. 
 
 They concluded the Llancayo site would help meet this need, and that revised drainage, flood access, and ecological measures meant the scheme now complied with planning policy. 
 
-## The Decision
+## The decision
 
 The planning committee first voted in July 2024 to approve the application, subject to confirmation from Natural Resources Wales that the site would not harm the River Usk SAC. That confirmation arrived in summer 2025, allowing the council to formally grant permission.
 

@@ -5,6 +5,8 @@ title: Bungalow approved for rear of Park Close property after controversial deb
 
 A controversial plan to build a bungalow in the back garden of a Park Close home has been given the green light by Monmouthshire County Council, following months of debate and several amendments to the scheme.
 
+The planning meeting can be view on [YouTube](https://www.youtube.com/live/XpDYGvZdEsc?si=oO8eAeFOOeW7ipjL&t=262).
+
 The application sought permission to construct a single-storey property with its own parking and turning space behind 11 Park Close in Abergavenny.
 
 The scheme was first brought before councillors in January, when it faced strong opposition over the narrow three-metre access lane, which fell short of Welsh planning standards. A tied vote in February left the decision hanging, but the applicant later submitted revised plans with improved parking and manoeuvring space, as well as details on drainage and biodiversity measures.
