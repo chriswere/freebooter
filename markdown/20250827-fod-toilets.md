@@ -3,7 +3,7 @@ date: 2025-08-27
 title: Forest of Dean public toilets: where to find them
 ---
 
-The Forest of Dean District Council provides **10 public toilet sites** across the district for residents and visitors. These facilities are maintained to ensure accessibility and convenience during your trips around the area.  
+The Forest of Dean District Council provides several public toilet sites across the district for residents and visitors. These facilities are maintained to ensure accessibility and convenience during your trips around the area.  
 
 Here’s a full list of public toilets, including opening times, disabled access, and baby change facilities:
 
