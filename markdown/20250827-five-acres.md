@@ -1,6 +1,6 @@
 ---
 date: 2025-08-27
-title: Ambitious plans for Five Acres laid out my council
+title: Ambitious plans for Five Acres laid out by council
 ---
 
 The Forest of Dean District Council has unveiled an ambitious new vision for **Five Acres** in Berry Hill, creating a hub of leisure, education, and community activities for residents across the district. The project is designed to bring people together, provide modern facilities, and support the health and wellbeing of the local community.
