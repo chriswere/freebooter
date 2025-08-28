@@ -3,7 +3,7 @@ date: 2025-08-28
 title: Forest MP hits out at court backlogs and calls for reform
 ---
 
-Forest of Dean MP Matt Bishop laid out a warning in a commons debate (9 July 2025), warning that tackling the growing Crown Court backlog requires more than simply adding sitting days—it needs fundamental reform.
+Forest of Dean MP Matt Bishop has warned that tackling the growing Crown Court backlog requires more than simply adding sitting days—it needs fundamental reform, during a commons debate (3 July).
 
 “With the Crown Court backlog that we inherited at such high levels, and continuing to rise, does the Minister agree that tackling it means not just adding more sitting days but making fundamental reform?” Bishop asked.
 
