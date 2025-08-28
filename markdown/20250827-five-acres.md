@@ -5,7 +5,7 @@ title: Ambitious plans for Five Acres laid out by council
 
 The Forest of Dean District Council has unveiled an ambitious new vision for **Five Acres** in Berry Hill, creating a hub of leisure, education, and community activities for residents across the district. The project is designed to bring people together, provide modern facilities, and support the health and wellbeing of the local community.
 
-## Phase One: Indoor Facilities and Community Spaces
+## Phase one: indoor facilities and community spaces
 
 The first phase of the redevelopment focuses on the **refurbishment of the former Speedwell Building** and the creation of new indoor leisure facilities. Plans include:  
 
@@ -19,7 +19,7 @@ The first phase of the redevelopment focuses on the **refurbishment of the forme
 
 The designs have been carefully developed with input from residents and community groups, ensuring that the facilities meet local needs while remaining **financially and environmentally sustainable**. Energy-efficient features such as **air source heat pumps, solar panels, insulation, and electric vehicle charging points** are included to ensure a long-term positive impact.
 
-## Phase Two: Outdoor Sports Facilities
+## Phase two: outdoor sports facilities
 
 The second phase focuses on the **3G artificial pitch**, which will include:  
 
@@ -31,7 +31,7 @@ This phase is part of a successful funding bid to the **Football Association** i
 
 The pitch location has been carefully chosen due to site constraints such as a capped mining shaft and tree root protection zones. It is designed to meet the growing demand for 3G pitches in the district, which currently has a shortfall of two full-size pitches for local teams.
 
-## Future Expansion and Flexibility
+## Future expansion and flexibility
 
 Although the initial plans do not include a swimming pool or new tennis courts, the design leaves **space for future expansion**. The Sports Hall has been reoriented, and corridors included to allow for potential future facilities without disrupting current operations.  
 
@@ -39,7 +39,7 @@ A **small performance venue** will be included in the Sports Hall, allowing for 
 
 The athletics track, owned by Five Acres High School, could be upgraded in the future with support from the council and advice from England Athletics.
 
-## Education and Community Partnerships
+## Education and community partnerships
 
 Hartpury University and College will **lease two rooms** within the refurbished Speedwell Building for its **Aspiration Centre**, creating a local outreach hub. This centre will provide programmes and activities aimed at:  
 
@@ -49,7 +49,7 @@ Hartpury University and College will **lease two rooms** within the refurbished 
 
 The partnership with Hartpury also aims to **reduce travel and carbon emissions** for students by bringing education closer to home.  
 
-## Funding and Redevelopment
+## Funding and redevelopment
 
 The redevelopment is being funded by the council through a **successful Levelling Up Fund bid**, which also supports:  
 
@@ -58,11 +58,11 @@ The redevelopment is being funded by the council through a **successful Levellin
 
 The council purchased the Five Acres site from **Homes England in December 2021 for £1**, with the goal of creating a new council-owned leisure and community destination. Demolition of the previous structures has been completed, and the site is now cleared and ready for construction.
 
-## Community Consultation
+## Community consultation
 
 Early consultation events were held at **Berry Hill Primary School** and **Five Acres High School**, helping shape the phased design approach. Further community information events will be organised as the project progresses, keeping residents updated on plans for both indoor and outdoor facilities.
 
-## Long-Term Vision
+## Long-term vision
 
 The council’s vision for Five Acres is to create a **hub for community activity** with:  
 
@@ -73,7 +73,7 @@ The council’s vision for Five Acres is to create a **hub for community activit
 
 The project aligns with the **Allocations Plan** and the **Berry Hill, Christchurch, and Edge End Neighbourhood Plan**, ensuring it meets local planning and community objectives.
 
-## Key Facts About Facilities
+## Key facts about facilities
 
 - **Swimming pool**: No current plans due to lack of funding. Space is reserved for future development.  
 - **Tennis courts**: Currently in poor condition; future upgrades will depend on user demand and funding. Multi-use options for basketball or netball may be considered.  
