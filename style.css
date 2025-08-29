@@ -35,6 +35,9 @@ ul.bottomlinks li {
 	background: #eee;
 	border: 1px solid #ccc;
 	padding: 3px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
 }
 div.articledate {
 	font-style: italic;
