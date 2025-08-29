@@ -5,9 +5,11 @@ title: Monmouth’s Vanessa Ruck maps out the ultimate one-day motorcycle ride t
 
 Monmouth motorcyclist and social media personality [Vanessa Ruck](https://thegirlonabike.com) – widely known as The Girl on a Bike – has released her guide to what she describes as the “ultimate one-day motorcycle trip in the UK,” starting and finishing in the Wye Valley.
 
-[Watch the video of her journey](https://www.youtube.com/watch?v=F3B7rF9i_hQ).
+![Vanessa Ruck on a Tiger 900](https://i0.wp.com/thegirlonabike.com/wp-content/uploads/2022/11/the_girl_on_a_bike_triumph_tiger-900-rally-pro-touring-19-1024x683.jpeg)
 
 The route showcases some of the area’s best riding roads, including the A466 from Chepstow to Monmouth, the B4235, the A4136 towards Symonds Yat, and a return stretch along the River Wye. The ride is designed to highlight both the scenery and the wealth of local stop-offs that make the valley such a draw for visitors.
+
+[Watch the video of her journey](https://www.youtube.com/watch?v=F3B7rF9i_hQ).
 
 Among the suggested breaks are Monmouth’s historic high street and picnic area, the Lion Inn at Trellech, and Symonds Yat Rock with its panoramic views across the valley. Other recommended stops include Tintern Abbey, the Old Station Tintern, and Bigsweir Bridge – one of the most photographed crossings of the River Wye.
 
