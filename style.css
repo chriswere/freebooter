@@ -24,6 +24,10 @@ a {
 a:hover {
 	text-decoration: underline;
 }
+article image {
+	max-width: 100%;
+	max-height: 80%;
+}
 ul.toplinks,
 ul.bottomlinks {
 	padding: 0;
