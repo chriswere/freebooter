@@ -47,6 +47,16 @@ ul.bottomlinks li {
 	overflow: hidden;
 	text-overflow: ellipsis;
 }
+ul.postlist {
+	list-style: none;
+	padding: 0;
+}
+ul.postlist li {
+	padding: 10px;
+}
+ul.postlist li:nth-child(odd) {
+	background: #eee;
+}
 div.articledate {
 	font-style: italic;
 }
@@ -55,10 +65,6 @@ p.postfooter {
 	margin: 15px 0;
 	padding: 15px 0;
 	font-style: italic;
-}
-ul.postlist li,
-ul.archivelist li {
-	padding: 0.2em 0;
 }
 th, td {
 	padding:0.4em;
