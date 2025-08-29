@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
-<title><!--title--></title>
-<description><!--title--> RSS feed</description>
+<title>Monmouthshire and Forest of Dean Freebooter</title>
+<description>Monmouthshire and Forest of Dean Freebooter RSS feed</description>
 <language>en-gb</language>
 <link>https://freebooter.uk/rss.xml</link>
 <atom:link href="https://freebooter.uk/rss.xml" rel="self" type="application/rss+xml" />
