@@ -24,6 +24,18 @@ a {
 a:hover {
 	text-decoration: underline;
 }
+ul.toplinks,
+ul.bottomlinks {
+	padding: 0;
+	list-style: none;
+}
+ul.toplinks li,
+ul.bottomlinks li {
+	display: inline-block;
+	background: #eee;
+	border: 1px solid #ccc;
+	padding: 3px;
+}
 div.articledate {
 	font-style: italic;
 }
