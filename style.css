@@ -42,6 +42,9 @@ ul.bottomlinks li {
 div.articledate {
 	font-style: italic;
 }
+p.postfooter {
+	font-style: italic;
+}
 ul.postlist li,
 ul.archivelist li {
 	padding: 0.2em 0;
