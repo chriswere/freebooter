@@ -47,14 +47,17 @@ ul.bottomlinks li {
 	overflow: hidden;
 	text-overflow: ellipsis;
 }
-ul.postlist {
+ul.postlist,
+ul.archivelist {
 	list-style: none;
 	padding: 0;
 }
-ul.postlist li {
+ul.postlist li,
+ul.archivelist li{
 	padding: 10px;
 }
-ul.postlist li:nth-child(odd) {
+ul.postlist li:nth-child(odd),
+ul.archivelist li:nth-child(odd) {
 	background: #eee;
 }
 div.articledate {
