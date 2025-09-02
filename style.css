@@ -1,6 +1,6 @@
 @font-face {
-	font-family: "oldlondon";
-	src: url("/oldlondon.ttf") format("truetype");
+	font-family: "titlefont";
+	src: url("/bonanova.ttf") format("truetype");
 }
 html {
 	background: #fff;
@@ -15,7 +15,7 @@ header {
 header a {
 	color: #000;
 	text-decoration: none;
-	font: 40px "oldlondon", serif;
+	font: 40px "titlefont", serif;
 }
 a {
 	color: #00c;
