@@ -12,7 +12,7 @@ Although the legal order allows closures for up to **18 months**, the programme 
 ## 📅 Planned closures – September 2025
 
 | Road | Town/Parish | Proposed Start | Duration |
-| #### | ########### | ############## | ######## |
+| ---- | ----------- | -------------- | -------- |
 | A4111 from A44 to Apostles Lane | Kington | 1 Sept | 10 days |
 | B4234 Walford Road | Ross-on-Wye | 1 Sept | 5 nights |
 | Tillington Road | Hereford | 1 Sept | 5 nights |
