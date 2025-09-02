@@ -64,7 +64,7 @@ div.articledate {
 	font-style: italic;
 }
 div.articleauthor {
-	font-size: small;
+	font-size: 0.6em;
 }
 footer.postfooter {
 	border-top: 1px solid #ccc;
