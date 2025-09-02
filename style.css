@@ -63,7 +63,7 @@ ul.archivelist li:nth-child(odd) {
 div.articledate {
 	font-style: italic;
 }
-p.postfooter {
+footer.postfooter {
 	border-top: 1px solid #ccc;
 	margin: 15px 0;
 	padding: 15px 0;

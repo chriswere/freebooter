@@ -1,6 +1,6 @@
 ---
 date: 2025-09-02
-title: Herefordshire Council announces September road closures for resurfacing
+title: September road closures announced by Herefordshire Council
 ---
 
 Herefordshire Council has confirmed a series of temporary road closures across the county this September as part of a resurfacing programme.
