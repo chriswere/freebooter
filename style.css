@@ -3,6 +3,10 @@
 	src: url("/bonanova.ttf") format("truetype");
 }
 @font-face {
+	font-family: "headingfont";
+	src: url ("/epundaslab.ttf") format("truetype");
+}
+@font-face {
 	font-family: "bodyfont";
 	src: url("/literata.ttf") format("truetype");
 }
@@ -33,6 +37,9 @@ a {
 }
 a:hover {
 	text-decoration: underline;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: "headingfont";
 }
 article img {
 	max-width: 100%;
