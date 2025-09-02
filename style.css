@@ -2,10 +2,14 @@
 	font-family: "titlefont";
 	src: url("/bonanova.ttf") format("truetype");
 }
+@font-face {
+	font-family: "bodyfont";
+	src: url("/epundaslab.ttf") format("truetype");
+}
 html {
 	background: #fff;
 	color: #000;
-	font-family: serif;
+	font-family: "bodyfont", serif;
 	margin: 15px auto;
 	max-width: 800px;
 }
