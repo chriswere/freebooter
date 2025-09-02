@@ -4,7 +4,7 @@
 }
 @font-face {
 	font-family: "bodyfont";
-	src: url("/epundaslab.ttf") format("truetype");
+	src: url("/literata.ttf") format("truetype");
 }
 html {
 	background: #fff;
