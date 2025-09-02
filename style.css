@@ -1,6 +1,6 @@
 @font-face {
 	font-family: "titlefont";
-	src: url("https://freebooter.uk/bonanova.ttf") format("truetype");
+	src: url("/bonanova.ttf") format("truetype");
 }
 html {
 	background: #fff;
@@ -17,10 +17,10 @@ header a {
 	text-decoration: none;
 	font-family: "titlefont", serif;
 }
-header div.header-top {
+header div.headertop {
 	font-size: 20px;
 }
-header div.header-bottom {
+header div.headerbottom {
 	font-size: 65px;
 }
 a {
