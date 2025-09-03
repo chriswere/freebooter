@@ -6,7 +6,7 @@ Ellie Chowns, Green Party MP for North Herefordshire, went head-to-head with Pri
 
 Chowns slammed the Conservatives’ plans to extract more oil and gas from the North Sea, calling it “reckless” and useless for energy security or jobs. Turning to Starmer, she asked if he would finally put a stop to the controversial Rosebank oil project, reminding him that climate action is supposed to be at the heart of his government’s mission.
 
-Starmer fired back sharply, pointing the finger at the Greens. He criticized the party’s plans in Scotland, claiming they could threaten £50 billion in renewable energy investment and secure jobs.
+Rather than answering the question, Starmer fired back, pointing the finger at the Greens. He criticized the party’s plans in Scotland, claiming they could threaten £50 billion in renewable energy investment and secure jobs.
 
 The Prime Minister also blasted the Green Party’s new leader, Zack Polanski, accusing him of:
 
