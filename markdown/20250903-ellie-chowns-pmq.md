@@ -1,6 +1,6 @@
 ---
 date: 2025-09-03
-title: PMQs Sparks Fire: Ellie Chowns takes on Starmer, new Green leader under fire
+title: Ellie Chowns takes on Starmer, new Green leader under fire
 ---
 Chowns, Green Party MP for North Herefordshire, went head-to-head with Prime Minister Kier Starmer over climate policy today (3 September 2025).
 
