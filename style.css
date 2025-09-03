@@ -68,10 +68,6 @@ ul.bottomlinks li {
 	overflow: hidden;
 	text-overflow: ellipsis;
 }
-div.intro {
-	font-size: 0.9em;
-	margin: 20px 0 16px 0;
-}
 ul.postlist,
 ul.archivelist {
 	list-style: none;
