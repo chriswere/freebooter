@@ -23,6 +23,7 @@ header {
 header a {
 	color: #000;
 	text-decoration: none;
+	transition: 2s;
 }
 header div.headertop {
 	font-size: 18px;
