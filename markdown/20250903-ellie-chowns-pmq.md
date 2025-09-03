@@ -2,7 +2,7 @@
 date: 2025-09-03
 title: Ellie Chowns takes on Starmer, new Green leader under fire
 ---
-Chowns, Green Party MP for North Herefordshire, went head-to-head with Prime Minister Kier Starmer over climate policy today (3 September 2025).
+Ellie Chowns, Green Party MP for North Herefordshire, went head-to-head with Prime Minister Kier Starmer over climate policy today (3 September 2025).
 
 Chowns slammed the Conservatives’ plans to extract more oil and gas from the North Sea, calling it “reckless” and useless for energy security or jobs. Turning to Starmer, she asked if he would finally put a stop to the controversial Rosebank oil project, reminding him that climate action is supposed to be at the heart of his government’s mission.
 
