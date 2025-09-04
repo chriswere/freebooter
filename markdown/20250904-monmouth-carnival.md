@@ -31,7 +31,7 @@ The plan is to:
 
 Despite these hurdles, councillors agreed they were enthusiastic about the idea and asked Jones to return with **confirmed permissions, detailed costings, and further talks with the Monmouth Music Festival committee**.
 
-### Carnival’s musical momentum
+## Carnival’s musical momentum
 
 The announcement comes hot on the heels of the Carnival’s **Battle of the Bands**, held on Sunday 29th June 2025.  
 
