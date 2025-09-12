@@ -5,6 +5,8 @@ title: Monmouthshire Council approves Wonastow Road residential development
 
 Monmouthshire County Council’s Planning Committee has approved a major new residential development at Drewen Farm, completing the housing allocation for the strategic Wonastow Road site. The decision follows careful consideration of environmental, transport, and community impacts, and approval comes with a series of conditions and planning obligations to ensure the development meets local needs and protects the surrounding environment.
 
+[The full planning meeting where this was discussed can be found here](https://www.youtube.com/watch?v=PwcBnI-L_co) 
+
 ## The proposed development
 
 The Drewen Farm development will see **110 new homes** constructed on the final part of the strategic Wonastow Road site, as allocated in the Monmouthshire Local Development Plan (LDP). The scheme includes a mix of housing types and tenures, designed to provide:
