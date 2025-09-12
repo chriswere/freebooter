@@ -8,8 +8,8 @@ The closures will come into effect from 1st September 2025 and are expected to l
 
 ## Affected roads and expected closures
 
-| Road | Town/Parish | Start date | Duration |
-|------|-------------|------------|----------|
+| Road                 | Town/Parish | Start date | Duration |
+|----------------------|-------------|------------|----------|
 | A4111 from A44 to Apostles Lane | Kington | 01-Sep-2025 | 10 days |
 | B4234 Walford Road | Ross-on-Wye | 01-Sep-2025 | 5 nights |
 | Tillington Road | Hereford | 01-Sep-2025 | 5 nights |
