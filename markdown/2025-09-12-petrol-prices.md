@@ -1,6 +1,6 @@
 ---
 date: 2025-09-12
-title: Cheapest petrol prices in Monmouthshire & Forest of Dean
+title: Cheapest petrol prices in Monmouthshire and Forest of Dean
 ---
 
 Motorists across Monmouthshire and the Forest of Dean are seeing a range of petrol prices at local forecourts. Here's a full list of the current unleaded petrol prices, ordered from cheapest to most expensive:
