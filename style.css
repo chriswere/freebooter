@@ -107,14 +107,15 @@ tr.odd {
 		color: #fff;
 	}
 	header a {
-		color: #000;
+		color: #fff;
 	}
 	a {
-		color: #33f;
+		color: #0ff;
 	}
-	ul.toplinks,
-	ul.bottomlinks {
+	ul.toplinks li,
+	ul.bottomlinks li {
 		background: #222;
+		border: 1px solid 444;
 	}
 	ul
 	tr.odd {
