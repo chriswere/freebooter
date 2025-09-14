@@ -10,8 +10,13 @@
 	font-family: "titlebottom";
 	src: url("/oldlondon.ttf") format("truetype");
 }
+@font-face {
+	font-family: "body";
+	src: url("/notoserif.ttf") format("truetype");
+}
 html {
 	background: #fff;
+	font-family: "body", serif;
 	color: #000;
 	font-family: serif;
 	margin: 16px auto;
