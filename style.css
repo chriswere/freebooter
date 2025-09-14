@@ -99,7 +99,7 @@ footer.postfooter {
 	font-style: italic;
 }
 th, td {
-	padding:0.4em;
+	padding: 0.4em;
 }
 tr.odd {
 	background: #ddd;
@@ -128,3 +128,7 @@ tr.odd {
 	ul.archivelist li:nth-child(odd) {
 		background: #222;
 	}
+	footer.postfooter {
+		border-top: 1px solid #444;
+	}
+}
