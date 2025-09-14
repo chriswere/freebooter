@@ -101,7 +101,7 @@ tr.odd {
 	background: #ddd;
 }
 /* Override for dark mode */
-@media (prefers-color-scheme: dark; {
+@media (prefers-color-scheme: dark) {
 	html {
 		background: #111;
 		color: #fff;
