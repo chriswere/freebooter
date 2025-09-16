@@ -1,6 +1,6 @@
 ---
 date: 2025-09-16
-title: "Employment Rights Bill: Progressive parties back worker reforms"
+title: Employment Rights Bill, Progressive parties back worker reforms
 ---
 
 The Labour Government, with support from the **Green Party, Plaid Cymru, the SNP, and several independent MPs**, is moving forward with the **Employment Rights Bill**. The Bill is expected to become law in **autumn 2025**.  
