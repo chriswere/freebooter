@@ -3,8 +3,7 @@ date: 2025-09-16
 title: Ellie Chowns challenges government on social housing targets
 ---
 
-Green MP Ellie Chowns has pressed the Labour government to set clear targets for the delivery of new social housing. Speaking during a debate in the House of Commons on 15 September 2025, Ms Chowns asked Housing Minister Mr Matthew Pennycook why the government has refused to commit to specific numbers.  
-([Hansard, HC Deb, 15 September 2025, c1314](https://hansard.parliament.uk/commons/2025-09-15/debates/78F1791B-B4A1-4F7A-B676-6B07A9F4D56E/SocialHousing))
+Green MP Ellie Chowns has pressed the Labour government to set clear targets for the delivery of new social housing. Speaking during a debate in the House of Commons on 15 September 2025, Ms Chowns asked Housing Minister Mr Matthew Pennycook why the government has refused to commit to specific numbers.  ([Hansard, HC Deb, 15 September 2025, c1314](https://hansard.parliament.uk/commons/2025-09-15/debates/78F1791B-B4A1-4F7A-B676-6B07A9F4D56E/SocialHousing))
 
 ## Ms Chowns asks why no targets are being set
 
