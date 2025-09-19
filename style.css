@@ -19,7 +19,7 @@ ul.postlist,ul.archivelist{list-style:none;padding:0;}
 ul.postlist li,ul.archivelist li{padding:10px;}
 ul.postlist li:nth-child(odd),ul.archivelist li:nth-child(odd){background:#eee;}
 span.listingtitle {display:block;}
-span.listingdate {display:block;padding-left:4ch;font-size:0.8em;}
+span.listingdate {display:block;font-size:0.8em;}
 div.articledate{font-style:italic;}
 div.articleauthor{font-size:0.8em;}
 footer.postfooter{border-top:1px solid #ccc;margin:15px 0;padding:15px 0;font-style:italic;}
