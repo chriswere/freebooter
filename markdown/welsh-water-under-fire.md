@@ -2,6 +2,7 @@
 date: 2025-09-19
 title: Welsh Water under fire as rivers, jobs, and public trust suffer
 ---
+<iframe src="https://player.senedd.tv/Player/Index/e44b71db-ddce-4ab3-9188-6786283505ea?inPointUTC=09%2F17%2F2025%2013%3A37%3A04&outPointUTC=09%2F17%2F2025%2013%3A46%3A04&autostart=False&captionsOn=False" name="NAFW Player" seamless="seamless" frameborder="0" width="100%" height="600" allowfullscreen mozallowfullscreen webkitallowfullscreen allow="encrypted-media; fullscreen"></iframe>
 Welsh Water (also known as Dŵr Cymru) is once again facing sharp criticism over its performance, staffing plans, and executive pay, raising questions about whether the utility is meeting its responsibilities to the people of Wales.
 
 At a recent Senedd session (17th September 2025), Conservative MS Janet Finch-Saunders highlighted that over the next 18 to 24 months, Welsh Water plans to cut up to 500 jobs, representing a 12% reduction in staff. She raised concerns that these cuts are being proposed even as the company transitions to a new chief executive, Roch Cheroux, and noted that water bills have increased by around 27%.
