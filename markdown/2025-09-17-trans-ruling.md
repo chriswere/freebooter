@@ -5,7 +5,7 @@ title: Welsh government delaying action on trans policy
 
 The Welsh Government has been accused of avoiding clear answers on how it plans to respond to a key **Supreme Court ruling** on the legal definition of sex, after questions were raised again in the Senedd this week.  
 
-On **16 September 2025**, [Ms Laura Anne Jones MS)[https://senedd.wales/people/4562] (Reform UK, South Wales East) pressed the Government for an update, noting that **five months** had passed since the court decision.  
+On **16 September 2025**, [Ms Laura Anne Jones MS](https://senedd.wales/people/4562) (Reform UK, South Wales East) pressed the Government for an update, noting that **five months** had passed since the court decision.  
 
 She told the Senedd: "Surely enough time has now passed for you to adapt to the law and even, perhaps, establish what a woman actually is. But given the significance, I would like to once again ask for an oral statement on the floor of the Senedd on what actions the Welsh Government has taken to rectify its policies so that they now fall in line with the Supreme Court ruling."  
 
