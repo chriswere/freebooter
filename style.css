@@ -22,7 +22,7 @@ span.listingtitle {display:block;}
 span.listingdate {display:block;font-size:0.7em;font-style:italic;}
 div.articledate{font-style:italic;}
 div.articleauthor{font-size:0.8em;}
-footer.postfooter{border-top:1px solid #ccc;margin:15px 0;padding:15px 0;font-style:italic;}
+footer.postfooter{border-top:1px solid #ccc;margin:15px 0;padding:15px 0;font-style:italic;font-size:0.8em;}
 th,td{padding:0.4em;}
 tr.odd{background:#ddd;}
 /* Override for dark mode */
