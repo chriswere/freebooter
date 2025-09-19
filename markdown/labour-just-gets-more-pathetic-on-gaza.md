@@ -1,7 +1,6 @@
 ---
 date: 2025-09-19
 title: Labour just gets more pathetic on Gaza
-author: Chris
 ---
 
 Labour’s foreign policy weakness was exposed, yet again, in Parliament when Green Party MP Ellie Chowns asked some pretty strightforward questions on Gaza. Had ministers secured any timeframe for Israel to ease the blockade and allow aid through? Would Israel be held accountable for the humanitarian catastrophe unfolding daily? And when would the UK publish its long-promised review of the 2030 UK–Israel Roadmap?
