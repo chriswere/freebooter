@@ -16,7 +16,7 @@ article figcaption{font-style:italic;text-align:center;}
 ul.toplinks,ul.bottomlinks{padding:0;list-style:none;}
 ul.toplinks li,ul.bottomlinks li{display:inline-block;background:#eee;border:1px solid #ccc;padding:3px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
 ul.postlist,ul.archivelist{list-style:none;padding:0;}
-ul.postlist li,ul.archivelist li{padding:10px;}
+ul.postlist li,ul.archivelist li{padding:10px 10px 10px 40px;text-indent:-20px;}
 ul.postlist li:nth-child(odd),ul.archivelist li:nth-child(odd){background:#eee;}
 span.listingtitle {display:block;}
 span.listingdate {display:block;font-size:0.8em;}
