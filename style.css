@@ -7,8 +7,7 @@ h1,h2,h3,h4,h5,h6{font-family:"headingfont";}
 th,td{padding:0.4em;}
 tr.odd{background:#ddd;}
 /* Header style */
-header a{display:block;}
-header img {margin: 0 auto;max-width:100%; max-height:5em;}
+header img {display:block;margin:0 auto;max-width:100%; max-height:5em;}
 /* Index style */
 ul.toplinks,ul.bottomlinks{padding:0;list-style:none;}
 ul.toplinks li,ul.bottomlinks li{display:inline-block;background:#eee;border:1px solid #ccc;padding:3px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
