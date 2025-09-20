@@ -1,6 +1,6 @@
 @font-face{font-family:"headingfont";src:url("/epundaslab.ttf") format("truetype");}
 @font-face{font-family:"body";src:url("/notoserif.ttf") format("truetype");}
-body{background:#fff;font-family:"body",serif;color:#000;margin:16px auto;max-width:600px;font-size:18px;}
+body{background:#fff;font-family:"body",serif;color:#000;margin:16px auto;max-width:600px;font-size:18px;padding:5px;}
 a{color:#00c;text-decoration:none;}
 a:hover{text-decoration:underline;}
 h1,h2,h3,h4,h5,h6{font-family:"headingfont";}
